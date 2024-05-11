@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\documents\\lado\\newgroupproject-main\\newgroupproject-main\\newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Documents\\Lado\\NewGroupProject-main\\NewGroupProject-main\\newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "NewGroupProject\\Models\\Reservation.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Lado\\NewGroupProject-main\\NewGroupProject-main\\NewGroupProject\\Models\\Reservation.cs",
               "RelativeToolTip": "NewGroupProject\\Models\\Reservation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T12:26:57.521Z",
               "EditorCaption": ""
@@ -111,8 +111,7 @@
               "RelativeToolTip": "NewGroupProject\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:36:10.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T14:36:10.702Z"
             },
             {
               "$type": "Document",
