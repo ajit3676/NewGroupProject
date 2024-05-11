@@ -7,6 +7,8 @@ namespace NewGroupProject.Models
 {
     public class Reservation
     {
+
+        // this is my comment
         public int ReservationID { get; set; }
         public string ReservationName { get; set; }
         public int NoofGuests { get; set; }
