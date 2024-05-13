@@ -3,16 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\migrations\\202405101412063_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\migrations\\202405101412063_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\migrations\\202405101412063_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\migrations\\202405101412063_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Ajit Folder\\FormAuthRoles\\FormAuthRoles\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\models\\userroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\userroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,14 +82,6 @@
       "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,8 +97,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "NewGroupProject\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:10:32.463Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -75,18 +131,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "NewGroupProject\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "NewGroupProject\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NewGroupProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T05:07:00.561Z"
+              "WhenOpened": "2024-05-10T14:44:16.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "NewGroupProject\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAcAAAAA0MzMzMwQwBsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:05:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "NewGroupProject\\Models\\Reservation.cs",
@@ -94,11 +164,155 @@
               "RelativeToolTip": "NewGroupProject\\Models\\Reservation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T12:26:57.521Z"
+              "WhenOpened": "2024-05-11T12:26:57.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\Employee.cs",
+              "RelativeToolTip": "NewGroupProject\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:01:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202405101412063_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
+              "RelativeToolTip": "NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
+              "ViewState": "AQIAAAkAAABAmJmZmZktwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:07:36.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "NewGroupProject\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:07:00.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\FormAuthRoles\\FormAuthRoles\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "..\\FormAuthRoles\\FormAuthRoles\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\FormAuthRoles\\FormAuthRoles\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "..\\FormAuthRoles\\FormAuthRoles\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:15:38.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "NewGroupProject\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:07:30.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\UserRolesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "NewGroupProject\\Controllers\\UserRolesController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:07:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "NewGroupProject\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:06:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\User.cs",
+              "RelativeToolTip": "NewGroupProject\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:02:38.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRoleProvider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\UserRoleProvider.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Models\\UserRoleProvider.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\UserRoleProvider.cs",
+              "RelativeToolTip": "NewGroupProject\\Models\\UserRoleProvider.cs",
+              "ViewState": "AQIAAAYAAACAZmZmZuYhwDIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:02:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Models\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\UserRoles.cs",
+              "RelativeToolTip": "NewGroupProject\\Models\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:03:16.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\Role.cs",
+              "RelativeToolTip": "NewGroupProject\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:02:25.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Shared\\_Layout.cshtml",
@@ -110,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "Catagories.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Catagories.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Catagories.cshtml",
@@ -122,19 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "NewGroupProject\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA9wCQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T14:44:16.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Hours.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Hours.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Hours.cshtml",
@@ -146,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Contact.cshtml",
@@ -158,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Index.cshtml",
@@ -171,19 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "202405101412063_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
-              "RelativeDocumentMoniker": "NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
-              "RelativeToolTip": "NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
-              "ViewState": "AQIAAAgAAACg/v////8fwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T05:07:36.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\About.cshtml",
@@ -195,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "NewGroupProject\\App_Start\\RouteConfig.cs",
