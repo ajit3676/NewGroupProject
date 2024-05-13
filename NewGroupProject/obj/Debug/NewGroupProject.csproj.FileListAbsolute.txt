@@ -247,3 +247,5 @@ C:\Users\User\Desktop\Ajit Folder\NewGroupProject\NewGroupProject\obj\Debug\NewG
 C:\Users\User\Desktop\Ajit Folder\NewGroupProject\NewGroupProject\obj\Debug\NewGroup.B7C0DDD8.Up2Date
 C:\Users\User\Desktop\Ajit Folder\NewGroupProject\NewGroupProject\obj\Debug\NewGroupProject.dll
 C:\Users\User\Desktop\Ajit Folder\NewGroupProject\NewGroupProject\obj\Debug\NewGroupProject.pdb
+C:\Users\User\Desktop\Ajit Folder\NewGroupProject\NewGroupProject\obj\Debug\NewGroupProject.Migrations.InitialCreate.resources
+C:\Users\User\Desktop\Ajit Folder\NewGroupProject\NewGroupProject\obj\Debug\NewGroupProject.csproj.GenerateResource.cache

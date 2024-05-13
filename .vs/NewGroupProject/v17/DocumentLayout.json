@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\migrations\\202405101412063_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\migrations\\202405101412063_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\user\\desktop\\ajit folder\\newgroupproject\\newgroupproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\newgroupproject\\views\\home\\catagories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +74,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Catagories.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Catagories.cshtml",
-              "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Catagories.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Catagories.cshtml",
-              "RelativeToolTip": "NewGroupProject\\Views\\Home\\Catagories.cshtml",
-              "ViewState": "AQIAAGUAAACAVmZmZmYUwH8AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:40:01.725Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "NewGroupProject\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:07:00.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "NewGroupProject\\Models\\Reservation.cs",
@@ -91,7 +98,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NewGroupProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NewGroupProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:36:10.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Catagories.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Catagories.cshtml",
+              "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Catagories.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Catagories.cshtml",
+              "RelativeToolTip": "NewGroupProject\\Views\\Home\\Catagories.cshtml",
+              "ViewState": "AQIAAGUAAACAVmZmZmYUwH8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:40:01.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\HomeController.cs",
@@ -103,20 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NewGroupProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NewGroupProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:36:10.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Hours.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Hours.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Hours.cshtml",
@@ -128,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Contact.cshtml",
@@ -140,7 +158,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NewGroupProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:31:15.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202405101412063_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
+              "RelativeDocumentMoniker": "NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
+              "RelativeToolTip": "NewGroupProject\\Migrations\\202405101412063_InitialCreate.cs",
+              "ViewState": "AQIAAAgAAACg/v////8fwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:07:36.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\About.cshtml",
@@ -148,25 +191,11 @@
               "RelativeToolTip": "NewGroupProject\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAEIAAABgY2ZmZqYowFIAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:34:35.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T14:34:35.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "NewGroupProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "NewGroupProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:31:15.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ajit Folder\\NewGroupProject\\NewGroupProject\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "NewGroupProject\\App_Start\\RouteConfig.cs",
