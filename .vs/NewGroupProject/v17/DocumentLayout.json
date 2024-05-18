@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\newgroupproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\ajit me\\desktop\\ajit\\newgroupproject\\newgroupproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\ajit me\\desktop\\ajit\\newgroupproject\\newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\newgroupproject\\models\\userroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\models\\userroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\newgroupproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|c:\\users\\ajit me\\desktop\\ajit\\newgroupproject\\newgroupproject\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FFCD98-624E-41AA-B943-1FDB76B8B5B5}|NewGroupProject\\NewGroupProject.csproj|solutionrelative:newgroupproject\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "NewGroupProject\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAAAYwA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:51:43.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "NewGroupProject\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Models\\User.cs",
-              "RelativeToolTip": "NewGroupProject\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T06:02:38.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NewGroupProject\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NewGroupProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB+AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:36:10.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRolesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Controllers\\UserRolesController.cs",
-              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\UserRolesController.cs",
-              "ToolTip": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Controllers\\UserRolesController.cs",
-              "RelativeToolTip": "NewGroupProject\\Controllers\\UserRolesController.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAUwIkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:48:34.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "NewGroupProject\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "NewGroupProject\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T06:07:30.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRoleProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Models\\UserRoleProvider.cs",
-              "RelativeDocumentMoniker": "NewGroupProject\\Models\\UserRoleProvider.cs",
-              "ToolTip": "C:\\Users\\Ajit Me\\Desktop\\Ajit\\NewGroupProject\\NewGroupProject\\Models\\UserRoleProvider.cs",
-              "RelativeToolTip": "NewGroupProject\\Models\\UserRoleProvider.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAwDMAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T06:02:59.743Z",
+              "WhenOpened": "2024-05-18T10:35:32.933Z",
               "EditorCaption": ""
             }
           ]
