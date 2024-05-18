@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Security;
+using NewGroupProject.Data;
 
 namespace NewGroupProject.Models
 {
@@ -48,7 +49,7 @@ namespace NewGroupProject.Models
 
         public override string[] GetRolesForUser(string username)
         {
-            using (EmployeeContext _Context = new EmployeeContext())
+            using (NewGroupProjectContext _Context = new NewGroupProjectContext())
             {
                 var userRoles = (from user in _Context.Users
                                  join roleMapping in _Context.UserRoles

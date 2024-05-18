@@ -14,7 +14,7 @@ namespace FormAuthRoles.Controllers
 {
     public class RolesController : Controller
     {
-        private EmployeeContext db = new EmployeeContext();
+        private NewGroupProjectContext db = new NewGroupProjectContext();
 
         // GET: Roles
         public ActionResult Index()

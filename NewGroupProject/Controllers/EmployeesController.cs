@@ -9,12 +9,11 @@ using System.Web.Mvc;
 using NewGroupProject.Data;
 using NewGroupProject.Models;
 
-
-namespace FormAuthRoles.Controllers
+namespace NewGroupProject.Controllers
 {
     public class EmployeesController : Controller
     {
-        private EmployeeContext db = new EmployeeContext();
+        private NewGroupProjectContext db = new NewGroupProjectContext();
 
         // GET: Employees
         public ActionResult Index()
@@ -45,8 +44,6 @@ namespace FormAuthRoles.Controllers
         }
 
         // POST: Employees/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         [Authorize(Roles = "Admin")]
@@ -78,8 +75,6 @@ namespace FormAuthRoles.Controllers
         }
 
         // POST: Employees/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "Id,Name,Age,Position")] Employee employee)
